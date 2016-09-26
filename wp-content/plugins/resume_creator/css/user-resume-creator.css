@@ -1,0 +1,26 @@
+// User resume creator CSS will go here
+
+.resume_container label{
+  display: block;
+}
+
+.resume_container input, .resume_container select{
+  min-width: 280px;height: 35px;
+}
+
+.project_accordion p{
+    display: inline;
+}
+
+.action_delete{
+    float: right;
+    font-size: 10px;
+}
+
+.success_msg{
+    color: green;
+}
+
+.error_msg{
+    color: green;
+}
